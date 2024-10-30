@@ -2,7 +2,7 @@
   "name": "ecmascript-jest",
   "version": "1.0.0",
   "description": "An example template for writing gestures in javascript (esm).",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
     "test": "jest"
